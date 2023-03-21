@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thekaranacharya
-- 👀 I’m interested in AI, ML - specifically Computer Vision.
+- 👀 I’m interested in AI, ML - specifically Computer Vision and training multi-modal LLMs.
 - 🌱 I’m currently learning Case Based Reasoners, Explainable AI and PyTorch.
 - 📫 How to reach me : linkedin.com/in/thekaranacharya
 
