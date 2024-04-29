@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thekaranacharya
 - 👀 I’m interested in AI, ML - specifically Computer Vision, GenAI and adding safety and reliability to LLMs.
-- 🌱 Ask me about Explainable AI, Deep Learning and Case-based Reasoning.
+- 🌱 Ask me about Explainable AI, Deep Learning, Case-based reasoning, LLMs
 - 📫 How to reach me : linkedin.com/in/thekaranacharya
 
 <!---
