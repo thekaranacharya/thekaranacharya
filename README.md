@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @thekaranacharya
-- 👀 I’m interested in AI, ML - specifically Computer Vision, GenAI and adding safety and reliability to LLMs.
-- 🌱 Ask me about Explainable AI, Deep Learning, Case-based reasoning, LLMs
+- 👋 Hi, I’m @thekaranacharya, a Machine Learning Engineer with ~2 years of experience building and deploying high performance, low-latency Computer Vision and NLP models with a passion and curiosity for research, design, and development of safe, interpretable and reliable ML applications
+- 🌱 Ask me about LLMs, Explainable AI and Computer Vision.
 - 📫 How to reach me : linkedin.com/in/thekaranacharya
 
 <!---
